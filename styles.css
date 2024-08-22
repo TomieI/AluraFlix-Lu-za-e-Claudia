@@ -16,10 +16,10 @@ header {
 
 .chamada {
     background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
 }
 
 .chamada-texto {
@@ -35,9 +35,9 @@ p {
 }
 
 .categoria-videos {
-    display: flex;
-    overflow-x: auto;
-    gap: 10px;
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
 }
 
 .categoria {
